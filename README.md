@@ -6,4 +6,5 @@ Es un pokedex virtual que nos muestra el nombre y una imagen del pokemon que nos
 HTML JavaScript Css LiveServer 
 
 # Ejecución 
-Para ejecutar solo debes descargar o clonar el repositorio, abrirlo con tu editor favorito y en consola puedes ejecutar ./src/index.html
+Para ejecutar solo debes descargar o clonar el repositorio, abrirlo con tu editor favorito y en consola puedes ejecutar ./src/index.html o tambien podrias ejecutar index.html 
+con Live Server si lo tienes instalado
